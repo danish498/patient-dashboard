@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/561b33a7-d8dc-407e-a4d5-d3f182d8a44a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/patient-dashboard.git
+   git clone https://github.com/danish498/patient-dashboard
 
    cd patient-dashboard
 
