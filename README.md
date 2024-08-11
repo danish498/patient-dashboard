@@ -21,9 +21,7 @@ This project is a patient dashboard application where users can:
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id-here/0.jpg)](https://www.youtube.com/watch?v=your-video-id-here)
-
-*Click the image above to watch a video demo of the patient dashboard in action.*
+[Download the video demo](./src/demo/patient-demo.mp4)
 
 ## Installation
 
@@ -37,4 +35,3 @@ This project is a patient dashboard application where users can:
 
    yarn start
 
-```
