@@ -21,15 +21,8 @@ This project is a patient dashboard application where users can:
 
 ## Demo
 
-[Watch the video](./src/demo/patient-demo.mp4)
+https://github.com/user-attachments/assets/561b33a7-d8dc-407e-a4d5-d3f182d8a44a
 
-<video width="640" height="360" controls>
-  <source src="./src/demo/patient-demo.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-D:\vraj\interview-final\src\demo\patient-demo.mp4
-
-D:\vraj\interview-final\src\demo\patient-demo.gif
 
 
 ## Installation
