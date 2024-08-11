@@ -21,11 +21,17 @@ This project is a patient dashboard application where users can:
 
 ## Demo
 
-[Download the video demo](./src/demo/patient-demo.mp4)
+[Watch the video](./src/demo/patient-demo.mp4)
+
+<video width="640" height="360" controls>
+  <source src="./src/demo/patient-demo.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/patient-dashboard.git
 
@@ -34,4 +40,4 @@ This project is a patient dashboard application where users can:
    yarn install
 
    yarn start
-
+   ```
