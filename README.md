@@ -27,6 +27,10 @@ This project is a patient dashboard application where users can:
   <source src="./src/demo/patient-demo.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+D:\vraj\interview-final\src\demo\patient-demo.mp4
+
+D:\vraj\interview-final\src\demo\patient-demo.gif
+
 
 ## Installation
 
